@@ -161,7 +161,7 @@
     "serialport": "10.4.0",
     "socks": "2.6.1",
     "socks-proxy-agent": "6.0.0",
-    "ssh-config": "4.0.6",
+    "ssh-config": "4.2.1",
     "stylus": "0.54.8",
     "tar": "^6.1.9",
     "telnet-client": "^2.0.6",
