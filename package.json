@@ -162,7 +162,7 @@
     "socks": "2.6.1",
     "socks-proxy-agent": "6.0.0",
     "ssh-config": "4.0.6",
-    "stylus": "0.54.8",
+    "stylus": "0.55.0",
     "tar": "^6.1.9",
     "telnet-client": "^2.0.6",
     "trzsz": "1.0.0",
