@@ -159,7 +159,7 @@
     "node-pty": "0.11.0-beta19",
     "os-locale-s": "1.0.8",
     "serialport": "10.4.0",
-    "socks": "2.6.1",
+    "socks": "2.7.2",
     "socks-proxy-agent": "6.0.0",
     "ssh-config": "4.0.6",
     "stylus": "0.54.8",
